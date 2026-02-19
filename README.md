@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm second year aiml student<br>I'm currently working as an intern at infosys springboard(virtual)<br>GSOC Aspirant
+Hi there, I'm Ananya 👋
+ 🤖 Aspiring AI/ML Engineer | 2nd Year Student
+I am a passionate AI/ML student focused on building intelligent systems that solve real-world problems. Currently exploring the depths of **Deep Learning** and **Computer Vision**.
 
 
 ## 🌐 Socials:
